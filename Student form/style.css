@@ -1,0 +1,36 @@
+table{
+    width: 400px;
+    height: 400px;
+    padding-top: 30px;
+	margin-top: 50px;
+	text-align: center;
+	background: rgb(220, 211, 211);
+	color: rgb(123, 66, 66);
+    border: 2px solid rgb(59, 59, 59);
+    position: relative;
+    left: 35%; 
+    top: 20%;  
+}
+
+#show{
+    width: 400px;
+    height: 70px;
+    
+}
+#skill1{
+    position: relative;
+    right: 5%;
+}
+#skill2{
+    position: relative;
+   right: 10%;
+}
+#show th, #show td{
+	padding: 13px;
+}
+
+#btna td input{
+	width:20%;
+    position: relative;
+    left: 0%;
+}
